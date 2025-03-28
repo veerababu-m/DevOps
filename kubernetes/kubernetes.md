@@ -1,4 +1,4 @@
-# Installation
+# self hosted kubernetes Installation in vm's
 
 Step 1: Configuration on All Nodes (Master and Worker Nodes)
 Update and Upgrade Packages
